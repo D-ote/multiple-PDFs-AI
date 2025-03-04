@@ -1,4 +1,5 @@
 # 📚 Chat with Multiple PDFs using LangChain & Streamlit
+![image URL](https://github.com/D-ote/multiple-PDFs-AI/blob/main/multiple_pdf_chatbot.png)
 
 ### 🔍 Overview
 This project is a PDF-based conversational chatbot that allows users to upload **multiple PDF documents** and ask questions about their content. The system utilizes LangChain, OpenAI embeddings, and FAISS vector storage to provide accurate responses based on the uploaded documents.
